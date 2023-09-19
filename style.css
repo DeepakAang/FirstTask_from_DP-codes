@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+   
+}
+header{
+    text-align: center;
+}
+header h1{
+   text-align: center;
+    color: purple;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+}
+img{
+    
+    width: 150px;
+}
+#one{
+    
+    transform: rotate(-10deg);
+    
+}
+#two{
+    margin-left: -25px;
+    transform: rotate(10deg);
+}
+main{
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}.high{
+    background-color: yellow;
+    color: black;
+    border-radius: 3px;
+    padding: 2px;
+}
+.so{
+    padding-left: 14px;
+}
+
+footer p{
+
+    margin: 10px auto;
+}
+.new{
+    color: yellow;
+}
+.neww {
+    color: yellow;
+    display: inline-block;
+    
+}
+main{
+    background-color: blueviolet;
+    color: white;
+}
+footer p{
+    background-color: yellow;
+    color: black;
+    width: 180px;
+    padding: 5px;
+    border-radius: 5px;
+}
